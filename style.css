@@ -1,5 +1,12 @@
+
 body {
-  color: green;
-  font-size: 20px;
-  text-align: center;
+    background-color: lightblue;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
 }
